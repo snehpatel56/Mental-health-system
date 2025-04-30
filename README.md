@@ -4,7 +4,7 @@ This is a simple AI-powered web app built using **Streamlit** to assess mental h
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://your-username.streamlit.app)  
+👉 https://mental-health-system-upxuwjy6h2urvgcqhvh6ey.streamlit.app/
 *(Replace with your actual Streamlit Cloud link once deployed)*
 
 ---
